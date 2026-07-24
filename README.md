@@ -496,3 +496,30 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 
 Catalog data is provided as-is. Links point to third-party projects —
 their licenses and terms of use are defined by the respective repository authors.
+
+## Special thanks for great work
+
+- [breadbb/genizy](https://github.com/genizy)
+- [98Corbins](https://98.c0rbin.fun/)
+- [bog/aukak](https://github.com/aukak)
+- [burnedpopcorn](https://github.com/burnedpopcorn)
+- [irv77](https://github.com/irv77)
+- [koi/_flixel](https://oldgrounds.xyz/)
+- [slqnt](https://github.com/slqntdevss)
+- [sodiboo](https://github.com/sodiboo)
+- [SpanishFreddy](https://github.com/spanishfreddy)
+- [Mercury Workshop](https://github.com/MercuryWorkshop)
+- [national porting association](https://github.com/National-Porting-Association)
+- [webport.ing](https://github.com/webporting)
+- [sky](https://github.com/skysthelimitt) at selenite.cc
+- [GMH-Code](https://github.com/GMH-Code)
+- [MattConn](https://github.com/MattConn)
+- [VinMannie](https://github.com/VinMannie)
+- [chromaticpipe](https://github.com/chromaticpipe)
+- [skyleite](https://github.com/skyleite)
+- [BlueGameMC](https://github.com/BlueGameMC)
+- [gays dot' studio](https://github.com/gays-studio)
+- [Vanilagy](https://github.com/Vanilagy)
+- [TWS2401](https://github.com/TWS2401)
+- [q8j](https://github.com/q8j-dev)
+- [wasm.rip](https://wasm.rip)
